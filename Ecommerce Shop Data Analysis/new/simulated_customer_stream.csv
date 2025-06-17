@@ -1,0 +1,16 @@
+timestamp,session_id,customer_id,event_type,product_category,product_id
+2025-06-15 08:41:54.000861,session_8580,cust_527,add_to_cart,Clothing,prod_774
+2025-06-15 08:41:56.001583,session_8558,cust_106,purchase,Home,prod_824
+2025-06-15 08:41:58.003558,session_1304,cust_609,purchase,Health,prod_958
+2025-06-15 08:42:00.004551,session_8083,cust_106,add_to_cart,Toys,prod_770
+2025-06-15 08:42:02.005361,session_6858,cust_874,add_to_cart,Home,prod_469
+2025-06-15 08:42:04.006729,session_4705,cust_528,view,Books,prod_725
+2025-06-15 08:42:06.008219,session_4169,cust_127,purchase,Books,prod_605
+2025-06-15 08:42:08.009804,session_9410,cust_726,view,Electronics,prod_881
+2025-06-15 08:42:10.010753,session_8175,cust_855,purchase,Electronics,prod_195
+2025-06-15 08:42:12.011666,session_4326,cust_910,view,Books,prod_333
+2025-06-15 08:42:14.012736,session_7792,cust_143,add_to_cart,Electronics,prod_417
+2025-06-15 08:42:16.014126,session_8168,cust_448,add_to_cart,Electronics,prod_283
+2025-06-15 08:42:18.015859,session_6165,cust_881,purchase,Health,prod_540
+2025-06-15 08:42:20.016589,session_1019,cust_437,add_to_cart,Home,prod_926
+2025-06-15 08:42:22.017753,session_7326,cust_70,view,Books,prod_396
